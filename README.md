@@ -9,7 +9,7 @@ Using data analysis and machine learning, the study identifies hazardous formula
 ## 🛠 Methodology & Technical Implementation
 * **Data Acquisition:** Gathered ingredient lists from cosmetic databases and regulatory sources.
 * **Data Preparation:** Standardized ingredient names and engineered a target feature `is_harmful` based on known hazardous substances.
-* **Machine Learning:** Developed a **Logistic Regression** model to predict the presence of harmful chemicals using vectorized ingredient text (CountVectorizer).
+* **Machine Learning:** Developed a **Logistic Regression** model to predict the presence of harmful chemicals using vectorized ingredient text.
 * **Analytics:** Conducted statistical grouping by brand and category to identify high-risk product groups.
 
 ---
